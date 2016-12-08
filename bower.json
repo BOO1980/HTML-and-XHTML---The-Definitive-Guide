@@ -1,0 +1,7 @@
+{
+    "name": "HTML_and_XHTML_-_The_Definitive_Guide", "version": "1.0.0", "main": "path/to/main.css", "ignore": [
+        ".jshintrc", "**/*.txt"
+    ], "dependencies": {
+    }, "devDependencies": {
+    }
+}
